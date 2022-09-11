@@ -1,3 +1,5 @@
+//connects react to redux store
+
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { Provider } from 'react-redux'

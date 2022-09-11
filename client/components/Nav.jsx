@@ -1,5 +1,4 @@
 import React from 'react'
-import SnakeGame from './SnakeGame'
 
 const Nav = () => {
   return (
